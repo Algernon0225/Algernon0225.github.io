@@ -17,4 +17,4 @@ Publish from the `main` branch and repository root in **Settings → Pages**. Re
 - Replace `assets/Yihao_Xu_CV.pdf` when the CV changes.
 - Keep published papers and working papers in separate lists, with current manuscript status stated accurately.
 
-Content last reviewed: 2026-10-14.
+Content last reviewed: 2026-10-15.
