@@ -75,7 +75,7 @@ section[id],header[id]{scroll-margin-top:28px}
 .working-paper{margin-top:26px;padding-bottom:24px;border-bottom:1px solid var(--line)}
 .working-paper:last-child{border-bottom:0;padding-bottom:0}
 .working-paper h3{font-size:21px;line-height:1.4}
-.working-paper>p:not(.authors):not(.status){font-size:16px;max-width:760px}
+.working-paper>p:not(.authors):not(.status){font-size:16px;max-width:76ch}
 .status{font-size:14px;color:var(--blue);margin:13px 0 16px}
 .about-section{margin-top:42px}
 .entry{display:grid;grid-template-columns:135px minmax(0,1fr);gap:22px;margin-top:26px}
