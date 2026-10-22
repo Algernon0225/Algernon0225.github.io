@@ -1,20 +1,23 @@
 # Yihao Xu — Academic Homepage
 
-Source for Yihao Xu's academic homepage. The site is plain HTML and CSS and can be hosted directly on GitHub Pages.
+Personal academic website of Yihao Xu at the University of Science and Technology of China.
 
-## Local preview
+Website: https://algernon0225.github.io/
 
-Run `python -m http.server 8000` in this directory and open `http://localhost:8000`.
+## Pages
 
-## GitHub Pages
+- `index.html`: biography and selected publications
+- `research.html`: publications and research in progress
+- `papers/cultural-values.html`: ICIS paper overview, original figures, and results
+- `papers/multisensor-clustering.html`: IEEE Sensors Journal paper overview, original figures, and results
+- `about.html`: education, experience, CV, and contact
 
-Publish from the `main` branch and repository root in **Settings → Pages**. Relative asset paths allow either a user site (`<username>.github.io`) or a project site.
+## Maintenance
 
-## Updating the site
+The website uses plain HTML, CSS, and JavaScript. All resources use relative paths. GitHub Pages serves the `main` branch from the repository root.
 
-- Edit `index.html` for biography, research, publications, and contact information.
-- Edit `styles.css` for layout and typography.
-- Replace `assets/Yihao_Xu_CV.pdf` when the CV changes.
-- Keep published papers and working papers in separate lists, with current manuscript status stated accurately.
+For local viewing, open `index.html` in a browser or run `python -m http.server 8000` from this folder.
 
-Content last reviewed: 2026-10-15.
+The homepage biography is author-supplied text. Published papers and research in progress are listed separately. The CV download is `assets/Yihao_Xu_CV.pdf`. Figure captions identify the original publications; publication materials retain their respective rights.
+
+Content updated: 2026-10-22.
